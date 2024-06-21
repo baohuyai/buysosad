@@ -1,0 +1,79 @@
+
+
+LỆNH SETUP TOOL 
+
+LỆNH SETUP TURMUX (ADR)
+CÀI THƯ VIỆN PYTHON:
+pip install argparse
+pip install subprocess
+pip install time
+pip install requests
+pip install colorama
+pip install random
+pip install datetime
+pip install threading
+======================
+CÀI THƯ VIỆN NODE JS:
+npm install user-agents
+npm install fake-useragent
+npm install header-generator
+npm install randomstring
+npm install cloudscraper
+npm install cluster
+pip install aiohttp
+pip install multiprocess
+pip install console
+pkg install unzip
+npm i axios
+npm i gradient-string
+npm i colors && npm i cheerio && npm i random-useragent
+
+Cách vào tool:
+
+1 : cd /sdcard
+2 : cd download
+3 : cd VIP
+3 : python ddos.py ( thường khi tải về sẽ vào mục download )
+
+Để dừng tool ae ấn ctrl + C
+
+lỆNH SETUP PC
+Mọi người tải 
+Trên Pc nhé
+Python 11
+https://www.python.org/downloads/release/python-3116/
+NodeJs 
+https://nodejs.org/en/download/current
+
+Lệnh  PC Máy Tính cho Python 
+
+Lệnh 1: python --version
+
+Lệnh 2: python -m pip install --upgrade pip
+
+Lệnh 3: pip install requests
+
+Lệnh 4: pip install colorama
+
+Lệnh 5: pip install bs4
+
+Lệnh 6: pip install beautifulsoup4
+
+Lệnh 7: pip install Anime
+
+Lệnh 8: npm i user-agents
+
+---lệnh chạy tool----
+
+1: Vào Folder rồi vào cmd 
+2: Nhập lệnh :  python ddos.py
+
+
+CÁCH SỬ DỤNG TOOL
+
+URL : (link web cần ddos)
+METHOD : v2
+TIME ATTACK : (nhập thời gian muốn ddos ví dụ bạn muốn ddos web này 100 giây thì nhập : 100 )
+RATE : 64
+THREADS : Nhập 3-5 (máy khỏe có thể cho cao hơn tối đa tầm 20 thôi nhé)
+PROXY : proxy.txt
